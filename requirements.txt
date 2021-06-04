@@ -1,0 +1,9 @@
+fastapi
+
+uvicorn[standard]
+
+requests
+
+http3
+
+python-multipart
